@@ -2,7 +2,7 @@ services = {"Oil Change": 35, "Headlight Repair": 100, "Brake Repair": 300, "Whe
             "Car Wash": 15, "Car Wax": 40}
 total_cost = 0
 
-print("""Davy's Auto Shop Services:
+print("""Dauris's Auto Shop Services:
 Oil change -- $35
 Tire rotation -- $50
 Headlight Repair -- $100
